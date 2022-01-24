@@ -58,7 +58,7 @@ nav ul {
 }
 h1 {
     font-family: "Anton";
-    display: flex;
+    display: block;
     justify-content: center;
     flex-wrap: wrap;
 }
