@@ -70,5 +70,8 @@ h3 {
     width: 105px;
     border-radius: 50%;
     background-color: red;
-    border: 3px solid white;
+    border: 5px solid white;
+}
+.col-6 {
+    margin-top: 3em;
 }
