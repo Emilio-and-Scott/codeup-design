@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Montserrat:wght@500&family=Orbitron&family=Rubik:wght@500&family=Work+Sans:wght@600&display=swap');
+
 :root {
     --lipstick: #E6563B;
     --yellowish: #DEA03D;
@@ -10,13 +12,8 @@
     /*background-color: var(--gunmetal);*/
     margin: 0;
     padding: 0;
-    font-family: abel regular;
+    font-family: 'Abel', sans-serif;
 }
-
-.container-fluid {
-
-}
-
 html {
     background-color: var(--gunmetal);
 }
@@ -35,7 +32,25 @@ nav {
     padding-top: 2em;
     background-color: var(--gunmetal);
 }
+p {
+    font-size: 2.5em;
+}
 nav ul {
     list-style-type: none;
     background-color: var(--gunmetal);
+    display: flex;
+    justify-content: space-between;
+}
+.xs-nav-list {
+    list-style-type: none;
+    background-color: var(--gunmetal);
+    display: flex;
+    justify-content: center;
+}
+.container {
+    background-color: var(--gunmetal);
+    margin: 0;
+}
+.xs-nav-list li {
+    padding: 0 5px;
 }
