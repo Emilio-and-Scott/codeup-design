@@ -10,17 +10,32 @@
     /*background-color: var(--gunmetal);*/
     margin: 0;
     padding: 0;
+    font-family: abel regular;
 }
-/*.body {*/
-/*    background-color: var(--gunmetal);*/
-/*}*/
+
 .container-fluid {
+
+}
+
+html {
     background-color: var(--gunmetal);
 }
-.white-box {
-    height: 200px;
+.logo >img {
+    margin: 0;
+    height: 105px;
+    width: 105px;
+    z-index: 1;
 }
-.jumbotron {
-    background-color: var(--silver-surfer);
-    margin-top: 50px;
+nav {
+    background-color: #F0F0F0;
+    height: 60px;
+    margin-top: 3em;
+}
+.content {
+    padding-top: 2em;
+    background-color: var(--gunmetal);
+}
+nav ul {
+    list-style-type: none;
+    background-color: var(--gunmetal);
 }
