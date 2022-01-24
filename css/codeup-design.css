@@ -1,0 +1,26 @@
+:root {
+    --lipstick: #E6563B;
+    --yellowish: #DEA03D;
+    --woobie: #7CB06C;
+    --sealteal: #00ABA9;
+    --silver-surfer: #F0F0F0;
+    --gunmetal: #E6E6E6;
+}
+* {
+    /*background-color: var(--gunmetal);*/
+    margin: 0;
+    padding: 0;
+}
+/*.body {*/
+/*    background-color: var(--gunmetal);*/
+/*}*/
+.container-fluid {
+    background-color: var(--gunmetal);
+}
+.white-box {
+    height: 200px;
+}
+.jumbotron {
+    background-color: var(--silver-surfer);
+    margin-top: 50px;
+}
