@@ -3,7 +3,7 @@
 
 :root {
     --lipstick: #E6563B;
-    --yellowish: #DEA03D;
+    --yellowish: #EB9D3A;
     --woobie: #7CB06C;
     --sealteal: #00ABA9;
     --silver-surfer: #F0F0F0;
@@ -64,4 +64,11 @@ h1 {
 }
 h3 {
     font-family: "Anton";
+}
+.circle {
+    height: 105px;
+    width: 105px;
+    border-radius: 50%;
+    background-color: red;
+    border: 3px solid white;
 }
