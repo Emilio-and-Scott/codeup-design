@@ -69,9 +69,21 @@ h3 {
     height: 105px;
     width: 105px;
     border-radius: 50%;
-    background-color: red;
     border: 5px solid white;
+    font-family: "Anton";
 }
 .col-6 {
     margin-top: 3em;
+}
+.red-circle {
+    background-color: var(--lipstick)
+}
+.yellow-circle {
+    background-color: var(--yellowish);
+}
+.green-circle {
+    background-color: var(--woobie);
+}
+.teal-circle {
+    background-color: var(--sealteal);
 }
