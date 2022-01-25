@@ -115,6 +115,7 @@ h3 {
 .green-circle-icon {
     background-color: var(--woobie);
     font-family: Anton;
+    font-weight: bolder;
     font-size: 20px;
     height: 24px;
     width: 24px;
@@ -123,6 +124,7 @@ h3 {
 .teal-circle-icon {
     background-color: var(--sealteal);
     font-family: Anton;
+    font-weight: bolder;
     font-size: 20px;
     height: 24px;
     width: 24px;
