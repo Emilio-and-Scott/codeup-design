@@ -94,3 +94,37 @@ h3 {
     border: 9px solid lightgrey;
     border-radius: 2%;
 }
+.red-circle-icon {
+    background-color: var(--lipstick);
+    font-family: Anton;
+    font-weight: bolder;
+    font-size: 20px;
+    height: 24px;
+    width: 24px;
+    border: none;
+}
+.yello-circle-icon {
+    background-color: var(--yellowish);
+    font-family: Anton;
+    font-weight: bolder;
+    font-size: 20px;
+    height: 24px;
+    width: 24px;
+    border: none;
+}
+.green-circle-icon {
+    background-color: var(--woobie);
+    font-family: Anton;
+    font-size: 20px;
+    height: 24px;
+    width: 24px;
+    border: none;
+}
+.teal-circle-icon {
+    background-color: var(--sealteal);
+    font-family: Anton;
+    font-size: 20px;
+    height: 24px;
+    width: 24px;
+    border: none;
+}
